@@ -1,0 +1,4 @@
+LastCheck: "2023-02-08T19:51:13.149432095Z"
+LatestRelease:
+  URL: https://github.com/kubernetes-sigs/cluster-api/releases/tag/v1.3.3
+  Version: v1.3.3

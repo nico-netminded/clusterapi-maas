@@ -1,0 +1,13 @@
+providers:
+- name: "maas"
+  # url: "https://github.com/spectrocloud/cluster-api-provider-maas/releases/v0.3.0/infrastructure-components.yaml"
+  url: "file:///root/.cluster-api/overrides/infrastructure-maas/v0.4.0-beta/infrastructure-components.yaml"
+  type: "InfrastructureProvider"
+  version: "v0.4.0-beta"
+
+
+cert-manager:
+  url: "https://github.com/cert-manager/cert-manager/releases/latest/cert-manager.yaml"
+  #   version: "v1.11.0"
+
+
